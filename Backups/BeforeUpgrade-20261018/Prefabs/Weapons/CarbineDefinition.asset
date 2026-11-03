@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7385ae32f4afa5f499ccf7cf4862448f, type: 3}
+  m_Name: CarbineDefinition
+  m_EditorClassIdentifier: Assembly-CSharp::CompoundFPS.WeaponDefinition
+  displayName: AR-41 / CARBINE
+  automatic: 1
+  damage: 26
+  fireRate: 9
+  reloadDuration: 2
+  effectiveRange: 100
+  magazineCapacity: 30
+  reserveAmmunition: 150
+  recoil: 0.65
+  horizontalRecoil: 0.18
+  spread: 0.009
+  adsFOV: 55
+  hasScope: 1
+  scopedFOV: 28
+  hipPosition: {x: 0.25, y: -0.23, z: 0.45}
+  adsPosition: {x: 0, y: -0.13, z: 0.38}
+  shootingSound: {fileID: 0}
+  reloadSound: {fileID: 0}
+  emptySound: {fileID: 0}

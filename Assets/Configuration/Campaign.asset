@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e137fceab1ce7d49a61586982f2f2c6, type: 3}
+  m_Name: Campaign
+  m_EditorClassIdentifier: Assembly-CSharp::CompoundFPS.CampaignCatalog
+  weapons:
+  - {fileID: 11400000, guid: 4bb07d7a05761894fa2d65faa2faa250, type: 2}
+  - {fileID: 11400000, guid: d6ec262952d936549aee94614bee4195, type: 2}
+  - {fileID: 11400000, guid: 4a01c140f7b56ce4a88afe3b4e68e3da, type: 2}
+  - {fileID: 11400000, guid: 7a794d515865e454593a9909ce63fc15, type: 2}
+  levels:
+  - {fileID: 11400000, guid: 3c2e9a56722b2994f97e9634993168cd, type: 2}
+  - {fileID: 11400000, guid: d054a221853684f498da499a018608e3, type: 2}
+  - {fileID: 11400000, guid: e74e120aed7397a4d823cff0c774997c, type: 2}
+  graphicsPresets:
+  - {fileID: 11400000, guid: 2f98eb41c58fd594e9983306eafbd456, type: 2}
+  - {fileID: 11400000, guid: f94902c333c88df40ab3b5510a921eef, type: 2}
+  - {fileID: 11400000, guid: c2541965be40d354c8b076a979eccb1c, type: 2}

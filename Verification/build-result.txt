@@ -1,0 +1,1 @@
+Succeeded; errors=0; warnings=486; bytes=134566929Final build succeeded with zero errors. Warnings include bundled Sentis shader optimization warnings and disabled runtime Pipeline. Headless Windows startup completed scene initialization without logged exceptions or NavMesh failures.

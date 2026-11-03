@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b425747b8845e747804c4081388489a, type: 3}
+  m_Name: Level2
+  m_EditorClassIdentifier: Assembly-CSharp::CompoundFPS.LevelConfiguration
+  title: FREIGHT DEPOT
+  briefing: Clear the freight lanes. Use cover to cross the yard.
+  buildIndex: 1
+  defaultWeapon: {fileID: 11400000, guid: d6ec262952d936549aee94614bee4195, type: 2}
+  killReward: 60
+  completionReward: 350

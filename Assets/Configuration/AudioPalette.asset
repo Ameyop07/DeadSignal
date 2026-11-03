@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87903b8b2891da340b9d233be4f45b60, type: 3}
+  m_Name: AudioPalette
+  m_EditorClassIdentifier: Assembly-CSharp::CompoundFPS.AudioPalette
+  concreteSteps:
+  - {fileID: 8300000, guid: e18c6281ea6921c468720bf3c81ff894, type: 3}
+  - {fileID: 8300000, guid: 3d45f20fe163c494da1346496f67d2f5, type: 3}
+  - {fileID: 8300000, guid: 1297ab9bfba4ffd4d9868c1b1f347f02, type: 3}
+  - {fileID: 8300000, guid: a5999b49718c8e8468bd5156546b343c, type: 3}
+  - {fileID: 8300000, guid: 74acc21fc90aead488ae7251015872b6, type: 3}
+  grassSteps:
+  - {fileID: 8300000, guid: 2acdb58d9bb14224e8b720a23e1258a2, type: 3}
+  - {fileID: 8300000, guid: 46187bd37d59e4b4b889374cf4a55228, type: 3}
+  - {fileID: 8300000, guid: f5813895877676049a87b9c044501bca, type: 3}
+  - {fileID: 8300000, guid: abce173fd6b1c26498b5e87624808ef9, type: 3}
+  - {fileID: 8300000, guid: d186106f9edf7364585c1aae4ae2fcba, type: 3}
+  metalSteps:
+  - {fileID: 8300000, guid: e463e23fb46cc264db47a7dac8c3201f, type: 3}
+  - {fileID: 8300000, guid: 3ea11f555dcad554da6c2d2054ed40cb, type: 3}
+  - {fileID: 8300000, guid: e1e0db4465cfc1d49b597173627d105a, type: 3}
+  - {fileID: 8300000, guid: 56280e2aaa5cef045be62d5ec0ffe066, type: 3}
+  - {fileID: 8300000, guid: b9df17a6f25c9ac439b7f5d48aaecc93, type: 3}
+  concreteImpact: {fileID: 8300000, guid: 60c1f598ae6acd64e9726f21c56db9e7, type: 3}
+  grassImpact: {fileID: 8300000, guid: 20206df916a0a8644950feb0651e28f7, type: 3}
+  metalImpact: {fileID: 8300000, guid: 90b558665aacde34cb4d9cde82711def, type: 3}
+  fleshImpact: {fileID: 8300000, guid: 3a27b8ebf2d491c4a8667c50070faae5, type: 3}
+  landing: {fileID: 8300000, guid: 896b47534298d664990c434b7a253071, type: 3}
+  ambience: {fileID: 8300000, guid: c6133ed3edd2a1445ac0add02709b1e1, type: 3}
+  button: {fileID: 8300000, guid: f4a02764bc48f994c834fae93cfee293, type: 3}
+  hurt: {fileID: 8300000, guid: e728bf570dea20b4c822c1115fa82a7c, type: 3}
+  enemyDeath: {fileID: 8300000, guid: 672e0b6aa9a0c27459e6a612f2d049b9, type: 3}

@@ -1,0 +1,70 @@
+Mono path[0] = 'D:/mini project gd/Builds/DeadSignal/DeadSignal_Data/Managed'
+Mono config path = 'D:/mini project gd/Builds/DeadSignal/MonoBleedingEdge/etc'
+CodeReloadManager initialized
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Initialize engine version: 6000.5.2f1 (eb73d3b415a1)
+[Subsystems] Discovering subsystems at path D:/mini project gd/Builds/DeadSignal/DeadSignal_Data/UnitySubsystems
+[D3D12 Device Filter] Vendor Name: NVIDIA
+[D3D12 Device Filter] Device Name: NVIDIA T600 Laptop GPU
+[D3D12 Device Filter] Driver Version: 32.0.15.9652
+[D3D12 Device Filter] Feature Level: 12.1
+[D3D12 Device Filter] Graphics Memory: 3938 MB
+[D3D12 Device Filter] Processor Count: 20
+[D3D12 Device Filter] Device Type: Discrete
+GfxDevice: creating device client; kGfxThreadingModeSplitJobs
+d3d12: failed to query info queue interface (0x80004002).
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA T600 Laptop GPU (ID=0x1fb6)
+    Vendor:          NVIDIA
+    VRAM:            3938 MB
+    App VRAM Budget: 3347 MB
+    Driver:          32.0.15.9652
+Begin MonoManager ReloadAssembly
+- Finished resetting the current domain, in  0.050 seconds
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+<RI> Initializing input.
+Using Windows.Gaming.Input
+Input Polling Thread started.
+UnloadTime: 1.448500 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.306400 ms
+Unloading 92 unused Assets to reduce memory usage. Loaded Objects now: 7566.
+Total: 3.282700 ms (FindLiveObjects: 0.334300 ms CreateObjectMapping: 0.432700 ms MarkObjects: 2.389500 ms  DeleteObjects: 0.125700 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.593500 ms
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 8020.
+Total: 2.816700 ms (FindLiveObjects: 0.498200 ms CreateObjectMapping: 0.587800 ms MarkObjects: 1.667600 ms  DeleteObjects: 0.062800 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.069500 ms
+Unloading 79 unused Assets to reduce memory usage. Loaded Objects now: 8020.
+Total: 3.065500 ms (FindLiveObjects: 0.452600 ms CreateObjectMapping: 0.548300 ms MarkObjects: 1.996300 ms  DeleteObjects: 0.068000 ms)
+
+Preset: HIGH
+GPU: NVIDIA T600 Laptop GPU
+CPU: 12th Gen Intel(R) Core(TM) i7-12800H
+Resolution: 1920x1080
+Combat frames: 2726
+Average FPS: 59.85
+Frame time p50/p95/p99 ms: 16.67 / 16.83 / 16.99
+Main thread p95 ms: 16.83 (valid=True; includes frame-cap wait)
+GPU p95 ms: 5.94 (samples=2725; zero means unavailable)
+Peak draw calls: 0 (valid=False; zero is not evidence of no rendering)
+Peak used memory MB: 164.3
+Peak GC allocation per frame bytes: 0 (valid=False)
+[Physics::Module] Cleanup current backend.
+[Physics::Module] Id: 0xf2b8ea05
+Input System module state changed to: ShutdownInProgress.
+Input Polling Thread stopped.
+Input Polling Thread exited.
+Input System module state changed to: Shutdown.
+CodeReloadManager destroyed

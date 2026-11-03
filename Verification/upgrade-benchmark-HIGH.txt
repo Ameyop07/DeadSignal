@@ -1,0 +1,68 @@
+Preset: HIGH
+GPU: NVIDIA T600 Laptop GPU
+CPU: 12th Gen Intel(R) Core(TM) i7-12800H
+Resolution: 1920x1080
+Combat frames: 2726
+Average FPS: 59.85
+Frame time p50/p95/p99 ms: 16.67 / 16.83 / 16.99
+Main thread p95 ms: 16.83 (valid=True; includes frame-cap wait)
+GPU p95 ms: 5.94 (samples=2725; zero means unavailable)
+Peak draw calls: 0 (valid=False; zero is not evidence of no rendering)
+Peak used memory MB: 164.3
+Peak GC allocation per frame bytes: 0 (valid=False)
+PASS: Every weapon has preview, fire/reload/empty/switch clips
+PASS: Distinct firing audio per weapon
+PASS: Insufficient funds do not buy or subtract
+PASS: Purchase deducts exact price and grants ownership
+PASS: Duplicate purchase rejected
+PASS: Owned weapon can be equipped
+PASS: Unowned weapon cannot be equipped
+PASS: Save/load preserves money, ownership and loadout
+PASS: Locked level cannot load
+PASS: Armory controls fit 1280x720
+PASS: Armory controls fit 1280x960
+PASS: Armory controls fit 1920x1080
+PASS: Store button rejects unaffordable purchase
+PASS: Store Buy button grants weapon
+PASS: Store Equip button selects owned gun
+PASS: Correct level loaded 1
+PASS: Configurable default weapon for level 1
+PASS: All guards on baked NavMesh
+PASS: No footsteps while idle
+PASS: Walking footsteps on Concrete; steps=2; position=(0.00, 0.08, -23.56)
+PASS: Walking footsteps on Grass; steps=2; position=(-6.00, 0.11, -23.49)
+PASS: Walking footsteps on Metal; steps=2; position=(6.00, 0.13, -23.56)
+PASS: Running increases footstep cadence
+PASS: No footsteps airborne
+PASS: Landing sound on return to ground
+PASS: Fire and ammo consumption: rifle
+PASS: Reload starts: rifle
+PASS: Timed reload completed: rifle
+PASS: Empty magazine prevents firing: rifle
+PASS: Fire and ammo consumption: pistol
+PASS: Reload starts: pistol
+PASS: Timed reload completed: pistol
+PASS: Empty magazine prevents firing: pistol
+PASS: Fire and ammo consumption: smg
+PASS: Reload starts: smg
+PASS: Timed reload completed: smg
+PASS: Empty magazine prevents firing: smg
+PASS: Fire and ammo consumption: dmr
+PASS: Reload starts: dmr
+PASS: Timed reload completed: dmr
+PASS: Empty magazine prevents firing: dmr
+PASS: Mission completion 1
+PASS: Next mission unlock saved
+MEASURE: transition 1 = 0.134 s
+PASS: Correct level loaded 2
+PASS: Configurable default weapon for level 2
+PASS: All guards on baked NavMesh
+PASS: Mission completion 2
+PASS: Next mission unlock saved
+MEASURE: transition 2 = 0.146 s
+PASS: Correct level loaded 3
+PASS: Configurable default weapon for level 3
+PASS: All guards on baked NavMesh
+PASS: Mission completion 3
+PASS: Next mission unlock saved
+PASS: Explicit owned loadout overrides level default after reload

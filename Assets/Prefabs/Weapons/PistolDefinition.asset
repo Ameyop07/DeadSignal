@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7385ae32f4afa5f499ccf7cf4862448f, type: 3}
+  m_Name: PistolDefinition
+  m_EditorClassIdentifier: Assembly-CSharp::CompoundFPS.WeaponDefinition
+  displayName: P9 SIDEARM
+  id: pistol
+  price: 0
+  initiallyOwned: 1
+  preview: {fileID: 21300000, guid: 724a3400990fc2542b6409ba389de31e, type: 3}
+  automatic: 0
+  damage: 38
+  fireRate: 4
+  reloadDuration: 1.45
+  effectiveRange: 100
+  magazineCapacity: 12
+  reserveAmmunition: 60
+  recoil: 1.1
+  horizontalRecoil: 0.18
+  spread: 0.006
+  adsFOV: 55
+  hasScope: 0
+  scopedFOV: 28
+  hipPosition: {x: 0.22, y: -0.22, z: 0.4}
+  adsPosition: {x: 0, y: -0.13, z: 0.38}
+  shootingSound: {fileID: 8300000, guid: 361697b92d4b912409eec0d6fb777e21, type: 3}
+  reloadSound: {fileID: 8300000, guid: de21039e76763324298d7255a8b80814, type: 3}
+  emptySound: {fileID: 8300000, guid: 221d2957f238de24b95945c36fd13be0, type: 3}
+  switchSound: {fileID: 8300000, guid: a40707b85efed9c4c91bfc2adbc3c520, type: 3}

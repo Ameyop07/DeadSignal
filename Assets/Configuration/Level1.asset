@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b425747b8845e747804c4081388489a, type: 3}
+  m_Name: Level1
+  m_EditorClassIdentifier: Assembly-CSharp::CompoundFPS.LevelConfiguration
+  title: OUTPOST 17
+  briefing: Breach the outpost and secure the northern extraction.
+  buildIndex: 0
+  defaultWeapon: {fileID: 11400000, guid: 4bb07d7a05761894fa2d65faa2faa250, type: 2}
+  killReward: 50
+  completionReward: 250

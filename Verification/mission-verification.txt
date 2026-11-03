@@ -1,0 +1,73 @@
+PASS: Loaded mission 1
+PASS: Guard count 8
+PASS: Guard navigable Guard 3
+PASS: Guard navigable Guard 4
+PASS: Guard navigable Guard 8
+PASS: Guard navigable Guard 7
+PASS: Guard navigable Guard 1
+PASS: Guard navigable Guard 2
+PASS: Guard navigable Guard 5
+PASS: Guard navigable Guard 6
+PASS: Rifle has scope
+PASS: Pistol iron sights
+PASS: Pause freezes time
+PASS: Rifle fires
+PASS: Bullet damages character
+PASS: Blood splatter activated after hit
+PASS: Reload starts
+PASS: Timed reload completes
+PASS: Eliminations tracked
+PASS: Extraction wins mission 1
+PASS: Next mission available
+PASS: Loaded mission 2
+PASS: Guard count 10
+PASS: Guard navigable Guard 1
+PASS: Guard navigable Guard 10
+PASS: Guard navigable Guard 6
+PASS: Guard navigable Guard 2
+PASS: Guard navigable Guard 4
+PASS: Guard navigable Guard 7
+PASS: Guard navigable Guard 9
+PASS: Guard navigable Guard 8
+PASS: Guard navigable Guard 5
+PASS: Guard navigable Guard 3
+PASS: Rifle has scope
+PASS: Pistol iron sights
+PASS: Pause freezes time
+PASS: Rifle fires
+PASS: Bullet damages character
+PASS: Blood splatter activated after hit
+PASS: Reload starts
+PASS: Timed reload completes
+PASS: Eliminations tracked
+PASS: Extraction wins mission 2
+PASS: Next mission available
+PASS: Loaded mission 3
+PASS: Guard count 12
+PASS: Guard navigable Guard 10
+PASS: Guard navigable Guard 8
+PASS: Guard navigable Guard 7
+PASS: Guard navigable Guard 9
+PASS: Guard navigable Guard 1
+PASS: Guard navigable Guard 6
+PASS: Guard navigable Guard 2
+PASS: Guard navigable Guard 11
+PASS: Guard navigable Guard 4
+PASS: Guard navigable Guard 12
+PASS: Guard navigable Guard 3
+PASS: Guard navigable Guard 5
+PASS: Rifle has scope
+PASS: Pistol iron sights
+PASS: Pause freezes time
+PASS: Rifle fires
+PASS: Bullet damages character
+PASS: Blood splatter activated after hit
+PASS: Reload starts
+PASS: Timed reload completes
+PASS: Eliminations tracked
+PASS: Extraction wins mission 3
+PASS: Final mission ends campaign
+PASS: Restart resets player
+PASS: Player death opens loss state
+PASS: Return to main menu
+ALL CHECKS PASSED
